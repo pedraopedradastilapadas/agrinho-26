@@ -1,1 +1,19 @@
+body{
+  margin: 10px;
+  padding: 25px;
+  background-color: lightblue;
+}
+.title {
+	color: #C3CBD6;
+}
 
+header {
+  display: flex;
+  border: 3px solid #9AA5B5;
+  align-content: center;
+  align-items: center;
+  width: 60%;
+  height: 20%;
+  border-radius: 10px 10px 0px 0px;
+  background-color: #C3CBD6;
+}
